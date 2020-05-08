@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>upload</title>
+</head>
+<body>
+    <form method="post" action="upload_zip" enctype="multipart/form-data">
+    {% csrf_token %}
+       <label> data_set.zip </label>
+       <input type="file" name="myfile" />
+       <br/>
+       <input type="submit" value="upload"/>
+    </form>
+
+</body>
+</html>

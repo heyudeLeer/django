@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24d7e412-59bd-4962-ba73-4d91f51a2c09" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/img_rec_out/newest.hdf5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/img_rec_out/qs-fqjd-mf2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/img_rec_out/rgb_pixel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/img_rec_out/temp.h5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/img_rec_out/tempIMG_COL.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/img_rec_out/tempIMG_COL_OUT.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/img_rec_out/tempIMG_ROW.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/img_rec_out/tempIMG_ROW_OUT.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/img_rec_out/tempclass_name_dic_t.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/img_rec_out/tempclass_num.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/qs-fqjd-mf1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/IMG_COL.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/IMG_COL_OUT.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/IMG_ROW.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/IMG_ROW_OUT.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/class_name_dic_t.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/class_num.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu.h5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/fqjd/IMG_5842.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/fqjd/IMG_5853.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/fqjd/IMG_5854.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/fqjd/IMG_5856.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/fqjd/IMG_5858.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/fqjd/IMG_5869.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/fqjd/IMG_5880.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/fqjd/IMG_5961.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/fqjd/IMG_5964.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/htjf/IMG_20170614_183444.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/htjf/IMG_20170614_183709.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/htjf/IMG_20170614_183712.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/htjf/IMG_20170614_183905.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/htjf/IMG_20170614_183921.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/htjf/IMG_20170614_184011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/htjf/IMG_20170614_184014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/htjf/IMG_20170614_184027.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/htjf/IMG_20170614_184029.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/mf/IMG_5547.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/mf/IMG_5552.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/mf/IMG_5553.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/mf/IMG_5559.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/mf/IMG_5567.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/mf/IMG_5568.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/mf/IMG_5573.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/mf/IMG_5575.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/mf/IMG_5580.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/qsjd/IMG_4410.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/qsjd/IMG_4417.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/qsjd/IMG_4429.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/qsjd/IMG_4449.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/qsjd/IMG_4458.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/qsjd/IMG_4471.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/qsjd/IMG_4486.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/qsjd/IMG_4494.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/qsjd/IMG_4521.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/ss/IMG_3873.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/ss/IMG_3874.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/ss/IMG_3929.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/ss/IMG_3950.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/ss/UNADJUSTEDNONRAW_thumb_240d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/ss/UNADJUSTEDNONRAW_thumb_241a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/ss/UNADJUSTEDNONRAW_thumb_242f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/ss/UNADJUSTEDNONRAW_thumb_243c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/ss/UNADJUSTEDNONRAW_thumb_2445.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/wdm/IMG_6008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/wdm/IMG_6009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/wdm/IMG_6014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/wdm/IMG_6016.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/wdm/IMG_6022.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/wdm/IMG_6023.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/wdm/IMG_6028.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/wdm/IMG_6029.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/heliwu/wdm/IMG_6035.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/newest.hdf5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/qs-fqjd-mf2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/qs-fqjd-mf2.jpgrgb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/qs-fqjd1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/qs-fqjd1.jpgrgb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/qs-fqjd2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/fqjd/IMG_5842.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/fqjd/IMG_5853.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/fqjd/IMG_5858.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/fqjd/IMG_5880.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/fqjd/IMG_5961.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/htjf/IMG_20170614_183709.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/htjf/IMG_20170614_183905.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/htjf/IMG_20170614_184011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/htjf/IMG_20170614_184014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/htjf/IMG_20170614_184029.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/mf/IMG_5552.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/mf/IMG_5553.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/mf/IMG_5559.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/mf/IMG_5568.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/mf/IMG_5573.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/qsjd/IMG_4410.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/qsjd/IMG_4417.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/qsjd/IMG_4429.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/qsjd/IMG_4486.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/qsjd/IMG_4521.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/ss/IMG_3873.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/ss/IMG_3950.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/ss/UNADJUSTEDNONRAW_thumb_242f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/ss/UNADJUSTEDNONRAW_thumb_243c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/ss/UNADJUSTEDNONRAW_thumb_2445.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/wdm/IMG_6008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/wdm/IMG_6009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/wdm/IMG_6022.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/wdm/IMG_6023.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/train/wdm/IMG_6028.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/fqjd/IMG_5854.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/fqjd/IMG_5856.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/fqjd/IMG_5869.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/fqjd/IMG_5964.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/htjf/IMG_20170614_183444.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/htjf/IMG_20170614_183712.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/htjf/IMG_20170614_183921.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/htjf/IMG_20170614_184027.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/mf/IMG_5547.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/mf/IMG_5567.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/mf/IMG_5575.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/mf/IMG_5580.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/qsjd/IMG_4449.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/qsjd/IMG_4458.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/qsjd/IMG_4471.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/qsjd/IMG_4494.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/ss/IMG_3874.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/ss/IMG_3929.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/ss/UNADJUSTEDNONRAW_thumb_240d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/ss/UNADJUSTEDNONRAW_thumb_241a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/wdm/IMG_6014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/wdm/IMG_6016.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/wdm/IMG_6029.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/validation/wdm/IMG_6035.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/测试.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qs-fqjd-mf3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qs-fqjd1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/restaurant/heliwu/split.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/templates/hot_predict.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/templates/predict.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/templates/upload_zip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal/templates/upload_zip_success.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meal/templates/upload_success.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/meal/templates/upload.html" afterPath="$PROJECT_DIR$/meal/templates/upload_img.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meal/static/rgb_pixel.jpg" afterPath="$PROJECT_DIR$/meal/static/rgb_pixel.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meal/templates/home.html" afterPath="$PROJECT_DIR$/meal/templates/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meal/templates/predict_success.html" afterPath="$PROJECT_DIR$/meal/templates/predict_success.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meal/urls.py" afterPath="$PROJECT_DIR$/meal/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meal/views.py" afterPath="$PROJECT_DIR$/meal/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysite/settings.py" afterPath="$PROJECT_DIR$/mysite/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/split.sh" afterPath="$PROJECT_DIR$/split.sh" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/meal/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+              <folding>
+                <element signature="e#67#102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="predict_success.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meal/templates/predict_success.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload_img.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meal/templates/upload_img.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="predict.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meal/templates/predict.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>request</find>
+      <find>amer</find>
+      <find>tmp</find>
+      <find>extractall</find>
+      <find>MealConfig</find>
+      <find>unzip_dir</find>
+      <find>UPLOAD_DATA_PATH</find>
+      <find>extractZip</find>
+      <find>restaurant</find>
+      <find>lib_name</find>
+      <find>ABS_PATH</find>
+      <find>LIB_PATH</find>
+      <find>model_info.name</find>
+      <find>predict.html</find>
+      <find>model_info</find>
+      <find>reset_django</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mysite/urls.py" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/meal/form.py" />
+        <option value="$PROJECT_DIR$/meal/models.py" />
+        <option value="$PROJECT_DIR$/meal/templates/upload.html" />
+        <option value="$PROJECT_DIR$/meal/templates/home.html" />
+        <option value="$PROJECT_DIR$/meal/templates/upload_success.html" />
+        <option value="$PROJECT_DIR$/meal/templates/upload_zip_success.html" />
+        <option value="$PROJECT_DIR$/meal/templates/hot_predict.html" />
+        <option value="$PROJECT_DIR$/meal/templates/upload_img_success.html" />
+        <option value="$PROJECT_DIR$/meal/templates/upload_zip.html" />
+        <option value="$PROJECT_DIR$/meal/templates/upload_img.html" />
+        <option value="$PROJECT_DIR$/meal/templates/predict_success.html" />
+        <option value="$PROJECT_DIR$/meal/urls.py" />
+        <option value="$PROJECT_DIR$/meal/templates/predict.html" />
+        <option value="$PROJECT_DIR$/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/meal/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img_rec_out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../meal-recognize" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/meal/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mysite" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mysite" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mysite" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mysite" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mysite" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mysite" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mysite" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24d7e412-59bd-4962-ba73-4d91f51a2c09" name="Default" comment="" />
+      <created>1517844368201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517844368201</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19683751" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922202" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293023" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922202" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922202" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922202" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15180266" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <element signature="e#640#681#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="e#640#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#67#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html" />
+    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <element signature="e#640#681#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/img_rec_out/qs-fqjd-mf2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qs-fqjd-mf3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/templates/hot_predict.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/templates/upload_zip.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/templates/upload_zip_success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/pathlib2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="1268" column="54" lean-forward="false" selection-start-line="1182" selection-start-column="0" selection-end-line="1655" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="66" column="35" lean-forward="true" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/img_rec_out/rgb_pixel.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/static/rgb_pixel.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/keras/backend/tensorflow_backend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="73" column="25" lean-forward="false" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#23#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/keras/backend/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="82" column="19" lean-forward="false" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-1247972723/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="103" column="4" lean-forward="false" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/keras/applications/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/keras/utils/generic_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4780">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/keras/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/keras/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#640#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/templates/predict_success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/templates/predict.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1145">
+          <caret line="106" column="22" lean-forward="true" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/templates/upload_img.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/django/http/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="299" column="8" lean-forward="false" selection-start-line="299" selection-start-column="8" selection-end-line="299" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/django/shortcuts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-1247972723/posix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="824" column="4" lean-forward="true" selection-start-line="824" selection-start-column="4" selection-end-line="824" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding>
+            <element signature="e#67#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

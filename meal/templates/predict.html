@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>upload success</title>
+</head>
+<body>
+    <form method="POST" action="start_predict">
+        {% csrf_token %}
+        <label for="select-lib-name">Select lib name:</label>
+        <select id="select-lib-name" name="lib_name">
+            {% for lib_name in lib_names %}
+                <option value="{{ lib_name }}">{{ lib_name }}</option>
+            {% endfor %}
+        </select>
+
+        <input type="hidden" name="image_file_path" value="{{ image_file_path }}">
+
+        <input type="submit" value="Start prediction">
+    </form>
+
+</body>
+</html>
